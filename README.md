@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rob, a college student learning Django and React.
+- 👋 Hi, I’m Rob.
 
 
 <!---
